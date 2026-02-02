@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_shivam_face" target="blank"><img src="https://img.shields.io/twitter/follow/_shivam_face?logo=twitter&style=for-the-badge" alt="_shivam_face" /></a> </p>
 
-- 🌱 I’m currently learning **sprint boot React-js**
+- 🌱 I’m currently learning **Spring boot React-js**
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/3FLNgGc](https://bit.ly/3FLNgGc)
 
